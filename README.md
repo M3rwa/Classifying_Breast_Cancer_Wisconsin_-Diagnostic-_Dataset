@@ -1,4 +1,4 @@
-#Breast Cancer Diagnosis Classifier
+# Breast Cancer Diagnosis Classifier
 
 In this repository, you'll find a machine learning project that focuses on breast cancer diagnosis classification. We've built a robust classifier using Support Vector Machines (SVMs) to determine whether a breast tumor is malignant (cancerous) or benign (non-cancerous) based on various tumor characteristics.
 
